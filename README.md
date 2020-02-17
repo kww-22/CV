@@ -1,5 +1,5 @@
 # CV
 
-Contains my current CV for those interestsed.
+Contains my current Resume & CV for those interestsed.
 
-Last updated: Feb. 2020
+**Last updated**: Feb. 2020
