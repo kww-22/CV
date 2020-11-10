@@ -2,4 +2,4 @@
 
 Contains my current Resume & CV for those interestsed.
 
-**Last updated**: October, 2020
+**Last updated**: November, 2020
